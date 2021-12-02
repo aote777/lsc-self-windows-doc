@@ -17,6 +17,7 @@
 |      罗技驱动      |       [点我去下载][logi]       |                                sb 罗技的驱动                                |
 |       网易云       |    [点我去下载][wangyiyun]     |                             年费会员 不用白不用                             |
 |       向日葵       |    [点我去下载][xiangrikui]    |                               win 远程最优解                                |
+|       花生壳       |    [点我去下载][huashengke]    |                                  内网穿透                                   |
 |        IDM         |       [点我去下载][idm]        |                    下载器啊 对付百度云 正常下载也挺好用                     |
 
 [wxdownurl]: https://weixin.qq.com/
@@ -33,3 +34,4 @@
 [sourcecodepro]: https://github.com/adobe-fonts/source-code-pro
 [idm]: https://www.mairuan.com/
 [360download]: https://browser.360.cn/ee/
+[huashengke]: https://hsk.oray.com/
