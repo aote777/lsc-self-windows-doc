@@ -21,6 +21,8 @@
 | dell u2520dr manager |    [点我去下载][dellscreen]    |        戴尔屏幕管理工具 , 不用手动去调屏幕显示配置了 , 自带分屏分隔         |
 |       百度网盘       |  [点我去下载][baidudownload]   |                           用呗 大家都用 那只能用                            |
 |      金山打字通      |   [点我去下载][jinshandazi]    |                              对线基础能力训练                               |
+|         wps          |       [点我去下载][wps]        |                            不用 office 从我做起                             |
+|postman|[点我去下载][postman]| jiekou |
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
@@ -41,3 +43,5 @@
 [dellscreen]: https://www.delldisplaymanager.com/
 [baidudownload]: http://pan.baidu.com/download
 [jinshandazi]: http://www.51dzt.com/
+[wps]: https://www.wps.cn/
+[postman]: https://www.postman.com/
