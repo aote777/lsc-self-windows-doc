@@ -10,6 +10,7 @@
 |         火狐         |  [点我去下载][firefoxdownurl]  |                               **主力浏览器**                                |
 |  火狐蓝色开发者版本  | [点我去下载][firefoxdeveloper] |                                  开发调试                                   |
 |    360 极速浏览器    |   [点我去下载][360download]    |                                看文档用挺好                                 |
+|vscode|[点我去下载][vscode]|宇宙第一ide|
 |     screentogif      |   [点我去下载][screentogif]    |                               巨硬录屏小工具                                |
 |         anki         |       [点我去下载][anki]       |                                 笔记小工具                                  |
 |       罗技驱动       |       [点我去下载][logi]       |                                sb 罗技的驱动                                |
@@ -24,6 +25,8 @@
 |         wps          |       [点我去下载][wps]        |                            不用 office 从我做起                             |
 |postman|[点我去下载][postman]| 跟后端对线前先测一测 , 防止理亏 |
 |netch|[点我去下载][netch]| 跃强小助手 |
+|tg|[点我去下载][telegram]|电报聊天群|
+
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
@@ -47,3 +50,5 @@
 [wps]: https://www.wps.cn/
 [postman]: https://www.postman.com/
 [netch]: https://github.com/netchx/netch
+[telegram]: https://telegram.org/
+[vscode]: https://code.visualstudio.com/
