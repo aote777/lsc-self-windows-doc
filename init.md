@@ -28,6 +28,7 @@
 |postman|[点我去下载][postman]| 跟后端对线前先测一测 , 防止理亏 |
 |netch|[点我去下载][netch]| 跃强小助手 |
 |tg|[点我去下载][telegram]|电报聊天群|
+|wepe|[点我去下载][wepe]|装系统用|
 
 
 [wxdownurl]: https://weixin.qq.com/
@@ -56,3 +57,5 @@
 [vscode]: https://code.visualstudio.com/
 [360jieyasuo]: https://yasuo.360.cn/
 [git]: https://git-scm.com/
+[wepe]: https://www.wepe.com.cn/
+
