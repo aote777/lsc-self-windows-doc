@@ -2,6 +2,7 @@
 
 |         名称         |              下载              |                                    说明                                     |
 | :------------------: | :----------------------------: | :-------------------------------------------------------------------------: |
+|git|[点我去下载][git]|不装怎么推代码|
 |   source code pro    |  [点我去下载][sourcecodepro]   | 编辑器字体(先配一下 不然 vscode 或者其他的编辑器 就炸了 没配置其他备用字体) |
 |         微信         |    [点我去下载][wxdownurl]     |                                 没啥好说的                                  |
 |          QQ          |    [点我去下载][qqdownurl]     |                  为啥不用 tim? 对于一个 svip8 来说真没必要                  |
@@ -54,3 +55,4 @@
 [telegram]: https://telegram.org/
 [vscode]: https://code.visualstudio.com/
 [360jieyasuo]: https://yasuo.360.cn/
+[git]: https://git-scm.com/
