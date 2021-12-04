@@ -11,6 +11,7 @@
 |  火狐蓝色开发者版本  | [点我去下载][firefoxdeveloper] |                                  开发调试                                   |
 |    360 极速浏览器    |   [点我去下载][360download]    |                                看文档用挺好                                 |
 |vscode|[点我去下载][vscode]|宇宙第一ide|
+|360解压缩|[点我去下载][360jieyasuo]|360为数不多的好东西|
 |     screentogif      |   [点我去下载][screentogif]    |                               巨硬录屏小工具                                |
 |         anki         |       [点我去下载][anki]       |                                 笔记小工具                                  |
 |       罗技驱动       |       [点我去下载][logi]       |                                sb 罗技的驱动                                |
@@ -52,3 +53,4 @@
 [netch]: https://github.com/netchx/netch
 [telegram]: https://telegram.org/
 [vscode]: https://code.visualstudio.com/
+[360jieyasuo]: https://yasuo.360.cn/
