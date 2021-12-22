@@ -2,7 +2,7 @@
 
 |         名称         |              下载              |                                    说明                                     |
 | :------------------: | :----------------------------: | :-------------------------------------------------------------------------: |
-|git|[点我去下载][git]|不装怎么推代码|
+|         git          |       [点我去下载][git]        |                               不装怎么推代码                                |
 |   source code pro    |  [点我去下载][sourcecodepro]   | 编辑器字体(先配一下 不然 vscode 或者其他的编辑器 就炸了 没配置其他备用字体) |
 |         微信         |    [点我去下载][wxdownurl]     |                                 没啥好说的                                  |
 |          QQ          |    [点我去下载][qqdownurl]     |                  为啥不用 tim? 对于一个 svip8 来说真没必要                  |
@@ -11,8 +11,8 @@
 |         火狐         |  [点我去下载][firefoxdownurl]  |                               **主力浏览器**                                |
 |  火狐蓝色开发者版本  | [点我去下载][firefoxdeveloper] |                                  开发调试                                   |
 |    360 极速浏览器    |   [点我去下载][360download]    |                                看文档用挺好                                 |
-|vscode|[点我去下载][vscode]|宇宙第一ide|
-|360解压缩|[点我去下载][360jieyasuo]|360为数不多的好东西|
+|        vscode        |      [点我去下载][vscode]      |                                宇宙第一 ide                                 |
+|      360 解压缩      |   [点我去下载][360jieyasuo]    |                            360 为数不多的好东西                             |
 |     screentogif      |   [点我去下载][screentogif]    |                               巨硬录屏小工具                                |
 |         anki         |       [点我去下载][anki]       |                                 笔记小工具                                  |
 |       罗技驱动       |       [点我去下载][logi]       |                                sb 罗技的驱动                                |
@@ -25,16 +25,11 @@
 |       百度网盘       |  [点我去下载][baidudownload]   |                           用呗 大家都用 那只能用                            |
 |      金山打字通      |   [点我去下载][jinshandazi]    |                              对线基础能力训练                               |
 |         wps          |       [点我去下载][wps]        |                            不用 office 从我做起                             |
-<<<<<<< HEAD
-|       postman        |     [点我去下载][postman]      |                                   jiekou                                    |
+|       postman        |     [点我去下载][postman]      |                       跟后端对线前先测一测 , 防止理亏                       |
+|        netch         |      [点我去下载][netch]       |                                 跃强小助手                                  |
+|          tg          |     [点我去下载][telegram]     |                                 电报聊天群                                  |
+|         wepe         |       [点我去下载][wepe]       |                                  装系统用                                   |
 |    嗨格式录屏大师    |    [点我去下载][screenmp4]     |                                  录屏 付费                                  |
-=======
-|postman|[点我去下载][postman]| 跟后端对线前先测一测 , 防止理亏 |
-|netch|[点我去下载][netch]| 跃强小助手 |
-|tg|[点我去下载][telegram]|电报聊天群|
-|wepe|[点我去下载][wepe]|装系统用|
-
->>>>>>> 4075a5ae06b6dfdbb42bcd013aee9a5e2138ed25
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
@@ -57,14 +52,10 @@
 [jinshandazi]: http://www.51dzt.com/
 [wps]: https://www.wps.cn/
 [postman]: https://www.postman.com/
-<<<<<<< HEAD
 [screenmp4]: https://www.luping.com/
-=======
 [netch]: https://github.com/netchx/netch
 [telegram]: https://telegram.org/
 [vscode]: https://code.visualstudio.com/
 [360jieyasuo]: https://yasuo.360.cn/
 [git]: https://git-scm.com/
 [wepe]: https://www.wepe.com.cn/
-
->>>>>>> 4075a5ae06b6dfdbb42bcd013aee9a5e2138ed25
