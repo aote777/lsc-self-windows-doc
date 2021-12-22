@@ -22,7 +22,8 @@
 |       百度网盘       |  [点我去下载][baidudownload]   |                           用呗 大家都用 那只能用                            |
 |      金山打字通      |   [点我去下载][jinshandazi]    |                              对线基础能力训练                               |
 |         wps          |       [点我去下载][wps]        |                            不用 office 从我做起                             |
-|postman|[点我去下载][postman]| jiekou |
+|       postman        |     [点我去下载][postman]      |                                   jiekou                                    |
+|    嗨格式录屏大师    |    [点我去下载][screenmp4]     |                                  录屏 付费                                  |
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
@@ -45,3 +46,4 @@
 [jinshandazi]: http://www.51dzt.com/
 [wps]: https://www.wps.cn/
 [postman]: https://www.postman.com/
+[screenmp4]: https://www.luping.com/
