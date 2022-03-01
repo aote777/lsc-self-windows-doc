@@ -30,6 +30,7 @@
 |          tg          |     [点我去下载][telegram]     |                                 电报聊天群                                  |
 |         wepe         |       [点我去下载][wepe]       |                                  装系统用                                   |
 |    嗨格式录屏大师    |    [点我去下载][screenmp4]     |                                  录屏 付费                                  |
+|iobit软件卸载工具    |     [点我去下载][iobit]          |          卸载软件用的 挺好用的 能卸载一些 window自带无法检测出来的软件           |
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
@@ -59,3 +60,4 @@
 [360jieyasuo]: https://yasuo.360.cn/
 [git]: https://git-scm.com/
 [wepe]: https://www.wepe.com.cn/
+[iobit]:https://www.iobit.com/en/advanceduninstaller.php
