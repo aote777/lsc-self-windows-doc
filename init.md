@@ -33,6 +33,7 @@
 |iobit软件卸载工具    |     [点我去下载][iobit]          |          卸载软件用的 挺好用的 能卸载一些 window自带无法检测出来的软件           |
 |svn|[点我去下载][svn]| svn|
 |TrafficMonitor|自己去GitHub搜索吧|桌面监控小程序|
+|switchHosts|[点我去下载][switchHost]|配置host文件用的|
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
@@ -64,3 +65,4 @@
 [wepe]: https://www.wepe.com.cn/
 [iobit]:https://www.iobit.com/en/advanceduninstaller.php
 [svn]:https://tortoisesvn.net/
+[switchHost]:https://github.com/oldj/SwitchHosts
