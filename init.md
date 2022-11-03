@@ -37,6 +37,7 @@
 |      switchHosts       |    [点我去下载][switchhost]    |                             配置 host 文件用的                              |
 |          语雀          |     [点我去下载][yuqueurl]     |                                  文档记录                                   |
 | 小乌龟 git tortoisegit |  [点我去下载][tortoisegiturl]  |                                 git 客户端                                  |
+|toDesk|[点我去下载][todeskurl]|远程软件|
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
@@ -72,3 +73,4 @@
 [yuqueurl]: https://www.yuque.com/dashboard
 [wangyiyoudaoyun]: https://cidian.youdao.com/#/
 [tortoisegiturl]: https://tortoisegit.org/
+[todeskurl]: https://www.todesk.com/
