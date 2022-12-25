@@ -38,6 +38,8 @@
 |          语雀          |     [点我去下载][yuqueurl]     |                                  文档记录                                   |
 | 小乌龟 git tortoisegit |  [点我去下载][tortoisegiturl]  |                                 git 客户端                                  |
 |toDesk|[点我去下载][todeskurl]|远程软件|
+|steam|[下载](https://store.steampowered.com/)|steam |
+|epic|[下载](https://www.epicgames.com/site/zh-CN/home?lang=zh-CN)|epic|
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
