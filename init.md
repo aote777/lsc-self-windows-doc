@@ -40,6 +40,7 @@
 |toDesk|[点我去下载][todeskurl]|远程软件|
 |steam|[下载](https://store.steampowered.com/)|steam |
 |epic|[下载](https://www.epicgames.com/site/zh-CN/home?lang=zh-CN)|epic|
+|雷神加速器|[下载](https://www.leigod.com/)|加速器|
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
