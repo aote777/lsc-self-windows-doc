@@ -42,6 +42,7 @@
 |epic|[下载](https://www.epicgames.com/site/zh-CN/home?lang=zh-CN)|epic|
 |雷神加速器|[下载](https://www.leigod.com/)|加速器|
 |uu加速器|[下载](https://uu.163.com/)|加速器|
+|图吧工具箱|[下载](http://www.tbtool.cn/)|硬件|
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
