@@ -45,6 +45,7 @@
 |图吧工具箱|[下载](http://www.tbtool.cn/)|硬件|
 |夸克网盘|[下载](https://pan.quark.cn/list#/list/all)|网盘|
 |火绒|[下载](https://www.huorong.cn/)|清理垃圾|
+|clash|[下载](https://github.com/Fndroid/clash_for_windows_pkg/)| 代理 |
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
