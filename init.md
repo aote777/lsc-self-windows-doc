@@ -46,6 +46,7 @@
 |夸克网盘|[下载](https://pan.quark.cn/list#/list/all)|网盘|
 |火绒|[下载](https://www.huorong.cn/)|清理垃圾|
 |clash|[下载](https://github.com/Fndroid/clash_for_windows_pkg/)| 代理 |
+|navicat|[下载](https://www.navicat.com.cn/)| 数据库可视化 |
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
