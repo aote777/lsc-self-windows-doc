@@ -48,6 +48,7 @@
 |clash|[下载](https://github.com/Fndroid/clash_for_windows_pkg/)| 代理 |
 |navicat|[下载](https://www.navicat.com.cn/)| 数据库可视化 |
 |bitcomet 比特彗星 |[下载](https://www.bitcomet.com/cn)| 下载 |
+| 迅雷 |[下载](https://www.xunlei.com/)| 下载 |
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
