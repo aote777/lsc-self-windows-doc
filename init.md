@@ -13,6 +13,8 @@
 |     360 极速浏览器     |   [点我去下载][360download]    |                                看文档用挺好                                 |
 |         vscode         |      [点我去下载][vscode]      |                                宇宙第一 ide                                 |
 |       360 解压缩       |   [点我去下载][360jieyasuo]    |                            360 为数不多的好东西                             |
+|       360wifi-pc       |   [点我去下载](https://wifi.360.cn/easy/pc)    |                            360                      |
+
 |      screentogif       |   [点我去下载][screentogif]    |                               巨硬录屏小工具                                |
 |          anki          |       [点我去下载][anki]       |                                 笔记小工具                                  |
 |        罗技驱动        |       [点我去下载][logi]       |                                sb 罗技的驱动                                |
