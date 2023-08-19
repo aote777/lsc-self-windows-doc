@@ -51,6 +51,8 @@
 |bitcomet 比特彗星 |[下载](https://www.bitcomet.com/cn)| 下载 |
 | 迅雷 |[下载](https://www.xunlei.com/)| 下载 |
 | diskgenius |[下载](https://www.diskgenius.cn/download.php)| 硬盘工具 |
+| office Tool plus |[下载](https://otp.landian.vip/zh-cn/)| office|
+
 
 [wxdownurl]: https://weixin.qq.com/
 [qqdownurl]: https://im.qq.com/index
