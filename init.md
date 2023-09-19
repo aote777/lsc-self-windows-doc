@@ -52,6 +52,7 @@
 | 迅雷 |[下载](https://www.xunlei.com/)| 下载 |
 | diskgenius |[下载](https://www.diskgenius.cn/download.php)| 硬盘工具 |
 | office Tool plus |[下载](https://otp.landian.vip/zh-cn/)| office|
+| FinalShell |[下载](http://www.hostbuf.com/?install_fs)| office|
 
 
 [wxdownurl]: https://weixin.qq.com/
