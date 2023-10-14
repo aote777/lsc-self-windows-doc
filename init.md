@@ -32,6 +32,7 @@
 |           tg           |     [点我去下载][telegram]     |                                 电报聊天群                                  |
 |          wepe          |       [点我去下载][wepe]       |                                  装系统用                                   |
 |     嗨格式录屏大师     |    [点我去下载][screenmp4]     |                                  录屏 付费                                  |
+|     野葱视频工具     |    [点我去下载](https://shipin.yecong.com)     |                                  视频处理                                 |
 |   iobit 软件卸载工具   |      [点我去下载][iobit]       |       卸载软件用的 挺好用的 能卸载一些 window 自带无法检测出来的软件        |
 |          svn           |       [点我去下载][svn]        |                                     svn                                     |
 |     TrafficMonitor     |      自己去 GitHub 搜索吧      |                               桌面监控小程序                                |
