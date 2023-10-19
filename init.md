@@ -54,6 +54,7 @@
 | diskgenius |[下载](https://www.diskgenius.cn/download.php)| 硬盘工具 |
 | office Tool plus |[下载](https://otp.landian.vip/zh-cn/)| office|
 | FinalShell |[下载](http://www.hostbuf.com/?install_fs)| office|
+| parsec |[下载](https://parsec.app/downloads)| 远程|
 
 
 [wxdownurl]: https://weixin.qq.com/
