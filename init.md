@@ -55,6 +55,8 @@
 | office Tool plus |[下载](https://otp.landian.vip/zh-cn/)| office|
 | FinalShell |[下载](http://www.hostbuf.com/?install_fs)| office|
 | parsec |[下载](https://parsec.app/downloads)| 远程|
+| 游戏加加 game plus |[下载](https://gamepp.com/)| 监控 |
+
 
 
 [wxdownurl]: https://weixin.qq.com/
