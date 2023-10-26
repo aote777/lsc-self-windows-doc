@@ -85,7 +85,7 @@
 [telegram]: https://telegram.org/
 [vscode]: https://code.visualstudio.com/
 [360jieyasuo]: https://yasuo.360.cn/
-[git]: https://git-scm.com/
+[git]: https://gitforwindows.org/
 [wepe]: https://www.wepe.com.cn/
 [iobit]: https://www.iobit.com/en/advanceduninstaller.php
 [svn]: https://tortoisesvn.net/
