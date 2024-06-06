@@ -13,6 +13,7 @@
 |     360 极速浏览器     |   [点我去下载][360download]    |                                看文档用挺好                                 |
 |         vscode         |      [点我去下载][vscode]      |                                宇宙第一 ide                                 |
 |       360 解压缩       |   [点我去下载][360jieyasuo]    |                            360 为数不多的好东西                             |
+|       PeaZip 解压缩       |   [下载](https://peazip.github.io/index.html)    |          解压缩                             |
 |       360wifi-pc       |   [点我去下载](https://wifi.360.cn/easy/pc)    |                            360                      |
 |      screentogif       |   [点我去下载][screentogif]    |                               巨硬录屏小工具                                |
 |          anki          |       [点我去下载][anki]       |                                 笔记小工具                                  |
@@ -49,6 +50,7 @@
 |火绒|[下载](https://www.huorong.cn/)|清理垃圾|
 |clash|[下载](https://github.com/Fndroid/clash_for_windows_pkg/)| 代理 |
 |navicat|[下载](https://www.navicat.com.cn/)| 数据库可视化 |
+|dbeaver|[下载](https://dbeaver.io/)| 数据库可视化 |
 |bitcomet 比特彗星 |[下载](https://www.bitcomet.com/cn)| 下载 |
 | 迅雷 |[下载](https://www.xunlei.com/)| 下载 |
 | diskgenius |[下载](https://www.diskgenius.cn/download.php)| 硬盘工具 |
